@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+scikit-learn
+joblib
+pymupdf
+docx2txt
+pandas
